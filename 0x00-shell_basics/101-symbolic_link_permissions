@@ -1,0 +1,2 @@
+#!/bin/bash
+#!/bin/bchown -h vincet:staff _hello 
